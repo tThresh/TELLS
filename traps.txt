@@ -336,7 +336,6 @@ xylography
 xylotypography
 yakisoba
 yangtze
-yedemic
 yez
 york
 zemni
