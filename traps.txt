@@ -222,6 +222,7 @@ petroleum
 petuntze
 peuhl
 pez
+ponk
 pins
 pinx
 pitch
